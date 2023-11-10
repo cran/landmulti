@@ -1,0 +1,12 @@
+
+
+export(multipredict)
+export(s1)
+export(s2)
+import(NMOF)
+import(emdbook)
+import(landpred)
+import(snow)
+import(survival)
+importFrom("stats", "as.formula", "dnorm", "glm", "model.frame",
+               "rexp", "sd", "vcov")

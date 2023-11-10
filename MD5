@@ -1,0 +1,16 @@
+66b2b58f73fba00fce3204ff80ee3acb *DESCRIPTION
+d60de16f4fa9ea8a7d145ef22892063f *NAMESPACE
+8c3ce0da3ae9c1c0703ab969ab84e368 *R/HelperFunctions.R
+219784537a3161bf7f73de974650ca4d *R/dat.R
+f8f3e8a5c65ee48623002eda5ddafc0f *R/globals.R
+b7a6ea7255ab3363148c1cabb40d1c64 *R/multipredict.R
+519e7c88de5b15cf7abe321d455ec22b *build/vignette.rds
+c43a69be14abb74f4de40495e1e8677c *data/simulation.RData
+9e43bc1c30b58b95feecf1e02af50684 *inst/doc/multipred.R
+cc4a73e0f284e9a51c04f859450fd46b *inst/doc/multipred.Rmd
+b380ee21b8fe354bf21e0f2b19fa51b4 *inst/doc/multipred.html
+b5ee1b73a5a1953d67050cd9fe336c42 *man/multipredict.Rd
+539f3b8f321b69ff458d10cb385dd5a8 *man/s1.Rd
+0dd9b94bc309c9602b5b7949461b9b97 *man/s2.Rd
+83b675749f324b9b7144ba4f5b275768 *man/simulation.Rd
+cc4a73e0f284e9a51c04f859450fd46b *vignettes/multipred.Rmd
